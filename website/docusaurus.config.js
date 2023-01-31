@@ -61,7 +61,7 @@ module.exports = {
                         },
                         {
                             to: 'https://github.com/apify/apify-sdk-js',
-                            label: 'Github',
+                            label: 'GitHub',
                             position: 'left',
                         },
                         {
