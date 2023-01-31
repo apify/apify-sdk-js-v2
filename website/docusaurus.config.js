@@ -60,6 +60,11 @@ module.exports = {
                             activeBaseRegex: 'changelog',
                         },
                         {
+                            to: 'https://github.com/apify/apify-sdk-js',
+                            label: 'Github',
+                            position: 'left',
+                        },
+                        {
                             'type': 'docsVersionDropdown',
                             'position': 'left',
                             'className': 'navbar__item', // fixes margin around dropdown - hackish, should be fixed in theme
