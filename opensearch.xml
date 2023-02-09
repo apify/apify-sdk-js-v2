@@ -4,8 +4,8 @@
   <ShortName>Apify Docs v2</ShortName>
   <Description>Search Apify Docs v2</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs-v2.apify.com/sdk/js/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs-v2.apify.com/sdk/js/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs-v2.apify.com/sdk/js/opensearch.xml" />
-  <moz:SearchForm>https://docs-v2.apify.com/sdk/js/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.apify.com/sdk/js/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.apify.com/sdk/js/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.apify.com/sdk/js/opensearch.xml" />
+  <moz:SearchForm>https://docs.apify.com/sdk/js/</moz:SearchForm>
 </OpenSearchDescription>
